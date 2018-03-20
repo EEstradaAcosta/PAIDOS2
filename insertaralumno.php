@@ -1,0 +1,1 @@
+ <script language="javascript">alert("Registrado");</script> <script>location.href='altaalumno.php'</script>

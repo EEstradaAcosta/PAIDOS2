@@ -1,0 +1,1 @@
+<script>alert("Dato Eliminado")</script> <script>location.href='vercomentarios.php'</script>

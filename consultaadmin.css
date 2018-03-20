@@ -1,0 +1,28 @@
+body{
+	background-image: url(fondo2/director1.gif);
+}
+
+#barra{
+	width: 100%;
+	height: 50px;
+
+}
+
+#botones1{
+	float: right;
+	margin-right: 20px;
+	margin-top: 15px;
+}
+
+.btns{
+	background-color: yellow;
+	padding: 5px;
+	border-radius: 10px;
+}
+
+#caja{
+	width: 500px;
+	height: 200px;
+	margin: auto;
+	text-align: center;
+}
